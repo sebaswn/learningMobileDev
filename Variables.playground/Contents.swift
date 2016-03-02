@@ -40,3 +40,30 @@ green = 50.7
 
 
 
+// THIS IS A COMMENT
+
+/*
+this is a 
+multiline 
+comment
+*/
+
+var thisIsCool = true
+
+// Swift reads to end of line. Multiple statements on same line require semicolin 
+// also in for loops
+
+for var x = 0; x < 50; x++ {
+
+}
+
+
+
+
+
+
+
+
+
+
+
